@@ -1,2 +1,5 @@
-# class1
-this is the first Repo 
+# Name 
+Sachin Tomar
+
+# Age
+18
